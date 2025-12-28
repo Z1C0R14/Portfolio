@@ -12,12 +12,14 @@ body{
     display: flex;
     flex-direction: column;
     background-color: #a93134;
+    border: #181418 0.2rem solid;
 }
 
 header{
     background-color: #4a444d;
     color: white;
     text-align: center;
+    border: #181418 0.2rem solid;
 }
 
 img{
@@ -73,8 +75,9 @@ h2{
     text-decoration: underline;
 }
 main{
-    margin: 0.4rem;
+    margin: 1rem;
     border-radius: 1rem;
+    border: #181418 0.2rem solid;
     background-color: #3a1016;
     color: white;
     text-align: center;
@@ -95,13 +98,4 @@ footer{
     color: white;
     padding: 0.6rem;
     text-align: center;
-
 }
-
-
-
-
-
-
-
-
