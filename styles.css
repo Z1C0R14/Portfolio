@@ -8,6 +8,10 @@
     font-weight: 500;
 }
 
+abbr {
+    text-decoration: none;
+}
+
 body{
     display: flex;
     flex-direction: column;
@@ -98,4 +102,5 @@ footer{
     color: white;
     padding: 0.6rem;
     text-align: center;
+
 }
