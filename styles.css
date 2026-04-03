@@ -54,7 +54,7 @@ img{
     font-size: 2rem;
 }
 
-.cargo1{
+.cargo1 .cargo2{
     font-style: italic;
     margin: 0.2rem 0 0.5rem 1rem;
     flex-wrap: wrap;
